@@ -1,0 +1,9 @@
+[project]
+name = "bug-hunt"
+version = "0.1.0"
+requires-python = ">=3.10"
+authors = [
+    { name = "Jan Hicken", email = "janhicken@users.noreply.github.com" }
+]
+description = "A little bug hunting challenge"
+readme = "README.md"
